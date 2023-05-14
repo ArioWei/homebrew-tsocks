@@ -1,4 +1,4 @@
-1. tap repo: `brew tap Anakros/homebrew-tsocks`
+1. tap repo: `brew tap ArioWei/homebrew-tsocks`
 2. install tsocks: `brew install --HEAD tsocks` 
 3. set up socks proxy: `ssh -D 5555 server`
 4. edit configuration file: `vim /usr/local/etc/tsocks.conf`
